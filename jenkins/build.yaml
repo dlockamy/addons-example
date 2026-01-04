@@ -1,0 +1,4 @@
+build_from:
+  aarch64: "jenkins/jenkins:lts-jdk17"
+  armv7: "jenkins/jenkins:lts-jdk17"
+  amd64: "jenkins/jenkins:lts-jdk17"
