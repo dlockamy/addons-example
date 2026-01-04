@@ -1,7 +1,7 @@
 name: "LDAP"
 description: "LDAP add-on!"
 version: "1.0.0"
-slug: "hello_world"
+slug: "ldap"
 init: false
 arch:
   - aarch64
