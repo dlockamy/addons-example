@@ -1,8 +1,8 @@
 # Required for JCasC
-configuration-as-code:1.64.2
+#configuration-as-code:1.64.2
 
 # Other desired plugins
 # Example: git, pipeline-stage-view
-git:5.2.2
-pipeline-stage-view:2.35
-workflow-aggregator:2.70
+git
+#pipeline-stage-view:2.35
+#workflow-aggregator:2.70
